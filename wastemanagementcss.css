@@ -1,0 +1,45 @@
+.wastem{
+    height: 1000px;
+    background-color:green;
+}
+.pwm{
+    height: 400px;
+    width: 20%;
+    background-color: black;
+    margin-left: 30px;
+    display:block;
+    
+
+}
+
+.wastem .pwm img{
+    height: 400px;
+    width: 100%;
+}
+
+.right{
+    float: right;
+    width: 75%;
+   
+
+}
+.pwmmat{
+    width: 75%;
+}
+.charsearch {
+    margin-right: 20px;
+    padding-top: 1%;
+}
+
+
+.charsale {
+    height: 500px;
+    width: 25%;
+    background-color: blanchedalmond;
+    
+    margin-left: 20px;
+}
+.charsale img{
+    height: 100%;
+    width: 100%;
+}

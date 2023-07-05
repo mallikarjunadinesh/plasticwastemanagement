@@ -1,0 +1,153 @@
+.top1 {
+    height: 100px;
+    background-color:green;
+
+}
+.tname {
+    font-size: 40px;
+    padding: 1%;
+    
+}
+.plashead{
+    background-color: black;
+    height: 680px;
+    width: 100%;
+}
+.plashead img{
+    width: 100%;
+    opacity: 40%;
+    height: 100%;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    color: white;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+}
+.centered2 {
+    color: white;
+    position: absolute;
+    top: 60%;
+    left: 45.5%;
+    transform: translate(-50%,-50%);
+}
+.centered3 {
+    color:green;
+    position: absolute;
+    top: 70%;
+    left: 45.5%;
+    transform: translate(-50%,-50%);
+}
+.centered3 button{
+    background-color: green;
+    color: white;
+    border: 3px;
+    border-radius: 6px;
+    opacity: 80%;
+}
+.services{
+    height: 600px;
+    width: 60%;
+    background-color:rgb(6, 172, 6);
+}
+.services h2{
+    color: white;
+}
+.serv{
+    height: 18%;
+    width: 100%;
+    background-color:green;
+    margin-bottom: 1%;
+    display: inline-block;
+}
+.services .serv h2{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.reg{
+    height: 623px;
+    width: 40%;
+    background-color: black;
+    float: right;
+}
+.reg h2{
+    color: whitesmoke;
+}
+.regform{
+    height: 12%;
+    width: 70%;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.regform2{
+    height: 12%;
+    width: 70%;
+    margin-left: 30%;
+    
+}
+.regform3{
+    height: 12%;
+    width: 70%;
+    margin-left: 40%;
+    
+}
+.footer{
+    background: #000;
+    color: #8a8a8a;
+    font-size: 14px;
+    padding: 60px 0 20px;
+}
+.footer p{
+    color: #8a8a8a;
+}
+.footer h3{
+    color: #fff;
+    margin-bottom: 20px;
+}
+.footer-col-1, .footer-col-2, .footer-col-3, .footer-col-4{
+    min-width: 250px;
+    margin-bottom: 20px;
+}
+.footer-col-1{
+    flex-basis: 30%;
+}
+.footer-col-2{
+    flex: 1;
+    margin-bottom: 20px;
+}
+.footer-col-3, .footer-col-4{
+    flex-basis: 12%;
+    text-align: center;
+}
+.myi{
+    background-size: cover;
+}
+
+    
+
+
+.ul2{
+    list-style-type: none;
+
+}
+.footer hr{
+    border: none;
+    background: #b5b5b5;
+    height: 1px;
+    margin: 20px 0;
+}
+.copyright{
+    text-align: center;
+}
+.menu-icon{
+    width: 28px;
+    margin-left: 20px;
+    display: none;
+}  
